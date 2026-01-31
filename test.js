@@ -1,8 +1,6 @@
 var x = 50 //gobal 
 
-{
-  let y = 2;
-} //block
+let y = 2;//block
 
 let sum = x + y; // addition
 
